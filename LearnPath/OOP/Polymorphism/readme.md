@@ -1,0 +1,3 @@
+Inheritance Polymorphism 🥲 = Inheritance polymorphism allows a subclass to inherit the methods and properties of its superclass, and then override or extend those methods and properties. The subclass can then be treated as an instance of its superclass, allowing it to be used in place of the superclass wherever the superclass is expected.
+
+Interface Polymorphism 🥲 = Interface polymorphism allows objects of different classes to be treated as if they implement the same interface. An interface defines a set of methods that a class must implement. Any class that implements the interface can be treated as an instance of the interface, allowing it to be used in place of any other class that implements the same interface.

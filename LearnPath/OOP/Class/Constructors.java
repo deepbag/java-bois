@@ -11,8 +11,7 @@ import LearnPath.OOP.Class.exmaple.Person;
  * If a constructor takes no parameters, it is called a default constructor.
  */
 
-public class Constructors {
-
+public class Constructors { 
     public static void main(String[] args) {
         Person p1 = new Person("Alice", 25);
         Person p2 = new Person("Bob", 30);
